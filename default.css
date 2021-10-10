@@ -80,7 +80,6 @@ ul {
 }
 
 .s2 {
-  margin-top: 3%;
   background-color: var(--secondaryColor);
   border-bottom: 1px solid var(--borderColor);
   overflow-y: hidden;
